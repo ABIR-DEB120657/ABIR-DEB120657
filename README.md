@@ -1,73 +1,80 @@
-<!-- HEADER -->
-
 <div align="center">
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Stay+consistent.;Stay+dangerous.;Become+unstoppable." alt="Mindset Typing Animation" />
+  </a>
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:0d1117,100:00ffcc&height=250&section=header&text=Hi,%20I'm%20Abir%20Deb&fontSize=55&fontColor=00ffcc&animation=fadeIn&fontAlignY=35&desc=Code.%20Build.%20Dominate.&descAlignY=55&descSize=18" width="100%"/>
-
+  <h2>👨‍💻 About Me</h2>
+  <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  
+  <p align="left">
+    🎓 <b>CSE Student</b><br>
+    💻 Working with <b>Java | C++ | MySQL</b><br>
+    🚀 Currently building <b>real-world projects</b><br>
+    🧠 Learning <b>DSA (ICPC Preparation)</b><br>
+    🎯 Goal: <b>Software Engineer</b>
+  </p>
 </div>
 
-<!-- TYPING EFFECT -->
+<br>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=CSE+Student;Java+%7C+C%2B%2B+%7C+MySQL;Building+Real+World+Projects;Future+Software+Engineer" />
-
-</div>
+### ⚡ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
 
 ---
 
-# 👨‍💻 About Me
+### 🚀 Current Project (Elite Showcase)
+#### 🧠 Student Attendance Management System
 
-```diff
-+ 🎓 CSE Student
-+ 💻 Java | C++ | MySQL
-+ 🚀 Currently building real-world projects
-+ 🧠 Learning DSA (ICPC Preparation)
-+ 🎯 Goal: Software Engineer
-⚡ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,js,git,github,vscode&theme=dark" /> </div>
-📊 GitHub Analytics (Dynamic & Professional)
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abirdeb&show_icons=true&count_private=true&theme=radical&hide_title=false&include_all_commits=true" height="180"/> <img src="https://streak-stats.demolab.com?user=abirdeb&theme=radical&hide_border=false" height="180"/>
+> *A Java + MySQL based system designed to digitize and automate student attendance tracking with accuracy and efficiency.*
 
-<br><br>
+**⚙️ Tech Stack:** `Java (Core Logic)` | `MySQL (Database)` | `JDBC (Database Connectivity)`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirdeb&layout=compact&theme=radical" height="180"/> </div>
-🚀 Current Project 
-<div align="center">
-🧠 Student Attendance Management System
-</div>
-🔥 Project Overview
+**✨ Key Features:**
+* ✅ **Mark Attendance:** (Present / Absent)
+* 📊 **Generate Reports:** Easy-to-read attendance reports
+* 🔍 **Search Records:** Find student records instantly
+* 🗄️ **Database Integration:** Securely store & retrieve data
+* ⚡ **Performance:** Fast & efficient data handling
 
-A Java + MySQL based system designed to digitize and automate student attendance tracking with accuracy and efficiency.
-
-⚙️ Tech Stack
-Java (Core Logic)
-MySQL (Database)
-JDBC (Database Connectivity)
-✨ Key Features
-✅ Mark Attendance (Present / Absent)
-📊 Generate Attendance Reports
-🔍 Search Student Records
-🗄️ Store & Retrieve Data from Database
-⚡ Fast & Efficient Data Handling
-🎯 Purpose
-
-Replace traditional manual attendance with a smart, digital system that saves time and reduces errors.
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=abirdeb&repo=Student-Attendance-Management-System&theme=radical"/> </div>
-🏆 Achievements & Goals
-+ 💪 Gym Discipline (6 days/week)
-+ 🧠 ICPC Preparation Started
-+ 🎯 Future Software Engineer
-🌐 Connect With Me
-<div align="center"> <a href="https://www.linkedin.com/in/abir-deb-41794137b"> <img src="https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge&logo=linkedin&logoColor=black"/> </a> <a href="mailto:debabir137@gmail.com"> <img src="https://img.shields.io/badge/Gmail-00ffcc?style=for-the-badge&logo=gmail&logoColor=black"/> </a> <a href="mailto:debabir82@gmail.com"> <img src="https://img.shields.io/badge/Gmail2-00ffcc?style=for-the-badge&logo=gmail&logoColor=black"/> </a> <a href="https://www.facebook.com/share/1DjmecByhd/"> <img src="https://img.shields.io/badge/Facebook-00ffcc?style=for-the-badge&logo=facebook&logoColor=black"/> </a> <a href="https://www.instagram.com/abi.rdeb"> <img src="https://img.shields.io/badge/Instagram-00ffcc?style=for-the-badge&logo=instagram&logoColor=black"/> </a> </div>
-🧬 Profile Views (Always Increasing)
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=abirdeb&color=00ffcc&style=for-the-badge&label=Profile+Views" /> </div>
-⚡ Mindset
-> Stay consistent. Stay dangerous. Become unstoppable.
+**🎯 Purpose:** Replace traditional manual attendance with a smart, digital system that saves time and reduces errors.
 
 ---
 
-If you want, I can also add a **live activity GIF** that **increases GitHub stats and streaks dynamically** whenever you push code — it makes your README look like **your profile is alive and active**.  
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-Do you want me to add that next?
+---
+
+### 🏆 Achievements & Goals
+* 💪 **Gym Discipline** (6 days/week)
+* 🧠 **ICPC Preparation** Started
+* 🎯 **Future** Software Engineer
+
+---
+
+<div align="center">
+  
+  ### 🌐 Connect With Me
+  <p align="center">
+    <a href="YOUR_LINKEDIN_URL" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:your.email@example.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+  ### 🧬 Profile Views
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
+
+</div>
