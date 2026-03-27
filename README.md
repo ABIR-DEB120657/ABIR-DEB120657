@@ -6,11 +6,11 @@
 
 </div>
 
-<!-- TYPING EFFECT -->
+<!-- TYPING -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=CSE+Student;Java+%7C+C%2B%2B+%7C+MySQL;Future+Software+Engineer;Always+Learning+New+Tech" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=CSE+Student;Java+%7C+C%2B%2B+%7C+MySQL;Building+Real+World+Projects;Future+Software+Engineer" />
 
 </div>
 
@@ -19,11 +19,11 @@
 # 👨‍💻 About Me
 
 ```diff
-+ 🎓 CSE Student passionate about problem solving
-+ 💻 Strong foundation in Java, C++, and MySQL
++ 🎓 CSE Student
++ 💻 Java | C++ | MySQL
 + 🚀 Currently building real-world projects
-+ 🧠 Learning Data Structures & Algorithms
-+ 🎯 Goal: High-paying Software Engineering job
++ 🧠 Learning DSA (ICPC Preparation)
++ 🎯 Goal: Software Engineer
 ```
 
 ---
@@ -42,73 +42,63 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abirdeb&show_icons=true&theme=radical" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=black-ice&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC" height="180"/>
+<img src="https://streak-stats.demolab.com?user=abirdeb&theme=radical" height="180"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirdeb&layout=compact&theme=radical" height="180"/>
 
 </div>
 
 ---
 
-# 🧠 Current Focus
+# 🚀 Current Project (Elite Showcase)
 
-```yaml
-Learning:
-  - Data Structures & Algorithms
-  - Advanced MySQL Queries
-  - Problem Solving (ICPC Preparation)
+<div align="center">
 
-Building:
-  - Java Projects
-  - Database Systems
-  - Beginner-friendly Open Source
+## 🧠 Student Attendance Management System
 
-Improving:
-  - Coding Speed
-  - Debugging Skills
-  - Clean Code Practices
-```
+</div>
+
+### 🔥 Project Overview
+
+A **Java + MySQL based system** designed to digitize and automate student attendance tracking with accuracy and efficiency.
+
+### ⚙️ Tech Stack
+
+* Java (Core Logic)
+* MySQL (Database)
+* JDBC (Database Connectivity)
+
+### ✨ Key Features
+
+* ✅ Mark Attendance (Present / Absent)
+* 📊 Generate Attendance Reports
+* 🔍 Search Student Records
+* 🗄️ Store & Retrieve Data from Database
+* ⚡ Fast & Efficient Data Handling
+
+### 🎯 Purpose
+
+> Replace traditional manual attendance with a **smart, digital system** that saves time and reduces errors.
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=abirdeb&repo=Student-Attendance-Management-System&theme=radical"/>
+
+</div>
 
 ---
 
 # 🏆 Achievements & Goals
 
 ```diff
-+ 💪 Gym Discipline (6 days/week consistency)
-+ 🧠 ICPC Preparation Journey Started
-+ 🎯 Target: Become Software Engineer
-- ❌ Procrastination
++ 💪 Gym Discipline (6 days/week)
++ 🧠 ICPC Preparation Started
++ 🎯 Future Software Engineer
 ```
-
----
-
-# 🔥 Featured Projects
-
-<div align="center">
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9"/>
-</a>
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT2&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9"/>
-</a>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
-
-</div>
 
 ---
 
@@ -128,7 +118,7 @@ Improving:
   <img src="https://img.shields.io/badge/Facebook-00ffcc?style=for-the-badge&logo=facebook&logoColor=black"/>
 </a>
 
-<a href="https://www.instagram.com/abi.rdeb?igsh=MWVndjhoNHhyZjhiOA==">
+<a href="https://www.instagram.com/abi.rdeb">
   <img src="https://img.shields.io/badge/Instagram-00ffcc?style=for-the-badge&logo=instagram&logoColor=black"/>
 </a>
 
@@ -140,14 +130,14 @@ Improving:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00ffcc&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=abirdeb&color=00ffcc&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# ⚡ Final Touch
+# ⚡ Mindset
 
 ```diff
-> "Stay consistent. Stay dangerous. Become unstoppable."
+> Stay consistent. Stay dangerous. Become unstoppable.
 ```
