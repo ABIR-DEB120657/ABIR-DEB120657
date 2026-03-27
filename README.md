@@ -1,15 +1,14 @@
-
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Stay+consistent.;Stay+dangerous.;Become+unstoppable." alt="Mindset Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Hi,+I'm+Abir+Deb;A+CSE+student+at+KYAU;Passionate+about+programming;And+software+development." alt="About Me Typing Animation" />
   </a>
 
   <h2>👨‍💻 About Me</h2>
   <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
   <p align="left">
-    🎓 <b>CSE Student</b><br>
+    🎓 <b>CSE Student at KYAU</b><br>
     💻 Coding in <b>Java | C++ | MySQL</b><br>
     🚀 Currently building <b>real-world projects</b><br>
     🧠 Learning <b>DSA (ICPC Preparation)</b><br>
@@ -50,17 +49,17 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abir-deb120657&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abir-deb120657&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir-deb120657&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir-deb120657&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br><br>
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abir-deb120657&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abir-deb120657&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=abir-deb120657&color=70A5FD&style=for-the-badge" alt="Profile Views" />
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=abir-deb120657&color=70A5FD&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
