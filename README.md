@@ -1,5 +1,6 @@
 <div align="center">
   
+  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Stay+consistent.;Stay+dangerous.;Become+unstoppable." alt="Mindset Typing Animation" />
   </a>
@@ -45,11 +46,33 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abirdeb137&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abirdeb137&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### 📊 GitHub Analytics (Next-Level)
+
+<div align="center">
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abirdeb137&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" width="45%" />
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirdeb137&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="45%" />
+
+  <br><br>
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abirdeb137&theme=radical&hide_border=false" alt="GitHub Streak" width="45%" />
+
+  <!-- GitHub Contribution Calendar -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abirdeb137&theme=react-dark&area=true" alt="Contribution Graph" width="45%" />
+
+  <br><br>
+
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=abirdeb137&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+  <!-- Snake Animation -->
+  <img src="https://github.com/abirdeb137/abirdeb137/blob/main/assets/github-snake.svg" alt="GitHub Snake" width="100%" />
+
+</div>
 
 ---
 
@@ -77,10 +100,4 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
-
-  ### 🧬 Profile Views
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=abirdeb137&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </p>
-
 </div>
