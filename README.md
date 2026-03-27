@@ -8,8 +8,8 @@
   <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
   <p align="left">
-    🎓 <b>CSE Student</b><br>
-    💻 Working with <b>Java | C++ | MySQL</b><br>
+    🎓 <b>CSE Student at KYAU</b><br>
+    💻 Coding in <b>Java | C++ | MySQL</b><br>
     🚀 Currently building <b>real-world projects</b><br>
     🧠 Learning <b>DSA (ICPC Preparation)</b><br>
     🎯 Goal: <b>Software Engineer</b>
@@ -45,31 +45,21 @@
 
 ---
 
-### 📊 GitHub Analytics (Next-Level)
+### 📊 GitHub Analytics
 
 <div align="center">
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abirdeb137&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ABIR-DEB120657&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABIR-DEB120657&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=abirdeb137&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirdeb137&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABIR-DEB120657&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abirdeb137&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abirdeb137&bg_color=1A1B27&color=70A5FD&line=bf91f3&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="48%" />
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=abirdeb137&color=70A5FD&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-  <br><br>
-
-  <img src="https://github.com/abirdeb137/abirdeb137/blob/main/assets/github-snake.svg" alt="GitHub Snake" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=ABIR-DEB120657&color=70A5FD&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -89,7 +79,7 @@
     <a href="https://www.linkedin.com/in/abir-deb-41794137b" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:debabir137@gmail.com" target="_blank">
+    <a href="mailto:debabir82@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.facebook.com/share/1DjmecByhd/" target="_blank">
