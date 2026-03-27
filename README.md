@@ -47,8 +47,8 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abirdeb137&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abirdeb137&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
     <a href="https://www.linkedin.com/in/abir-deb-41794137b" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:debabir82@gmail.com" target="_blank">
+    <a href="mailto:debabir137@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.facebook.com/share/1DjmecByhd/" target="_blank">
@@ -80,7 +80,7 @@
 
   ### 🧬 Profile Views
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=abirdeb137&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
 </div>
