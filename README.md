@@ -1,6 +1,5 @@
 <div align="center">
   
-  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Stay+consistent.;Stay+dangerous.;Become+unstoppable." alt="Mindset Typing Animation" />
   </a>
@@ -50,26 +49,26 @@
 
 <div align="center">
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abirdeb137&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" width="45%" />
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirdeb137&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="45%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abirdeb137&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 
   <br><br>
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abirdeb137&theme=radical&hide_border=false" alt="GitHub Streak" width="45%" />
-
-  <!-- GitHub Contribution Calendar -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abirdeb137&theme=react-dark&area=true" alt="Contribution Graph" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abirdeb137&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirdeb137&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
   <br><br>
 
-  <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=abirdeb137&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abirdeb137&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abirdeb137&bg_color=1A1B27&color=70A5FD&line=bf91f3&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="48%" />
 
-  <!-- Snake Animation -->
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=abirdeb137&color=70A5FD&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+  <br><br>
+
   <img src="https://github.com/abirdeb137/abirdeb137/blob/main/assets/github-snake.svg" alt="GitHub Snake" width="100%" />
 
 </div>
