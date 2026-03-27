@@ -1,97 +1,153 @@
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=2a0845,6441A5&height=250&section=header&text=Hi%20There,%20I'm%20Nitish!&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Space&descAlignY=55&descSize=20" width="100%" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7852FF&center=true&vCenter=true&width=435&lines=Computer+Science+Student;C%2C+C%2B%2B%2C+Java+%26+MySQL;Always+Learning+New+Tech" alt="Typing SVG" />
-  </a>
-
-</div>
-
-<br>
+<!-- HEADER -->
 
 <div align="center">
 
-### 👨‍💻 About Me
-
-* 🎓 I’m currently studying **Computer Science and Engineering**.
-* 🚀 I’m currently focusing on building my foundational programming skills.
-* 🌱 I’m deeply exploring **MySQL** and relational databases.
-* 👯 I’m looking to collaborate on beginner-friendly database projects.
-* 🤝 I’m looking for help with advanced MySQL queries.
-* 💬 Ask me about life as a CSE student!
-* ⚡ **Fun fact:** I can debug code in my sleep!
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:0d1117,100:00ffcc&height=250&section=header&text=Hi,%20I'm%20Abir%20Deb&fontSize=55&fontColor=00ffcc&animation=fadeIn&fontAlignY=35&desc=Code.%20Build.%20Dominate.&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
-<br>
+<!-- TYPING EFFECT -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=CSE+Student;Java+%7C+C%2B%2B+%7C+MySQL;Future+Software+Engineer;Always+Learning+New+Tech" />
+
+</div>
 
 ---
 
+# 👨‍💻 About Me
+
+```diff
++ 🎓 CSE Student passionate about problem solving
++ 💻 Strong foundation in Java, C++, and MySQL
++ 🚀 Currently building real-world projects
++ 🧠 Learning Data Structures & Algorithms
++ 🎯 Goal: High-paying Software Engineering job
+```
+
+---
+
+# ⚡ Tech Stack
+
 <div align="center">
 
-### 🏆 GitHub Milestones
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&row=1&column=6" alt="Trophies" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql,js,git,github,vscode&theme=dark" />
 
 </div>
 
-<br>
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-### 📊 My Stats & Activity
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=black-ice&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC" height="180"/>
 
 <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact" height="195" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9" height="180"/>
 
 </div>
-
-<br>
 
 ---
 
-<div align="center">
+# 🧠 Current Focus
 
-### ⚡ Tech Stack
+```yaml
+Learning:
+  - Data Structures & Algorithms
+  - Advanced MySQL Queries
+  - Problem Solving (ICPC Preparation)
 
-<br>
+Building:
+  - Java Projects
+  - Database Systems
+  - Beginner-friendly Open Source
 
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <br><br>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <br><br>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-
-</div>
-
-<br>
+Improving:
+  - Coding Speed
+  - Debugging Skills
+  - Clean Code Practices
+```
 
 ---
 
+# 🏆 Achievements & Goals
+
+```diff
++ 💪 Gym Discipline (6 days/week consistency)
++ 🧠 ICPC Preparation Journey Started
++ 🎯 Target: Become Software Engineer
+- ❌ Procrastination
+```
+
+---
+
+# 🔥 Featured Projects
+
 <div align="center">
 
-### 🌐 Let's Connect
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9"/>
+</a>
 
-<br>
-
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://facebook.com/YOUR_FB"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/YOUR_IG"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7852FF&style=for-the-badge" alt="Profile Views" />
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT2&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffcc&text_color=c9d1d9"/>
+</a>
 
 </div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/abir-deb-41794137b">
+  <img src="https://img.shields.io/badge/LinkedIn-00ffcc?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="mailto:debabir137@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-00ffcc?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<a href="https://www.facebook.com/share/1DjmecByhd/">
+  <img src="https://img.shields.io/badge/Facebook-00ffcc?style=for-the-badge&logo=facebook&logoColor=black"/>
+</a>
+
+<a href="https://www.instagram.com/abi.rdeb?igsh=MWVndjhoNHhyZjhiOA==">
+  <img src="https://img.shields.io/badge/Instagram-00ffcc?style=for-the-badge&logo=instagram&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+# 🧬 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00ffcc&style=for-the-badge"/>
+
+</div>
+
+---
+
+# ⚡ Final Touch
+
+```diff
+> "Stay consistent. Stay dangerous. Become unstoppable."
+```
