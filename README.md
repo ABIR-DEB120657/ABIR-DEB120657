@@ -53,13 +53,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abir-deb120657&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir-deb120657&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir-deb120657&layout=compact&theme=tokyonight" alt="Top Languages" />
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abir-deb120657&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abir-deb120657&theme=tokyonight" alt="GitHub Streak" />
 
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=abir-deb120657&color=70A5FD&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abir-deb120657&color=70A5FD&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
