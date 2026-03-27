@@ -101,6 +101,17 @@ A **Java + MySQL based system** designed to digitize and automate student attend
 ```
 
 ---
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://github.com/ABIR-DEB120657/ABIR-DEB120657/blob/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
 
 # 🌐 Connect With Me
 
