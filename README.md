@@ -12,7 +12,7 @@
     💻 Coding in <b>Java | C++ | MySQL</b><br>
     🚀 Currently building <b>real-world projects</b><br>
     🧠 Learning <b>DSA (ICPC Preparation)</b><br>
-    🎯 Goal: <b>AI replace me 👾 </b>
+    🎯 Fear: <b>AI replace me 👾 </b>
   </p>
 </div>
 
